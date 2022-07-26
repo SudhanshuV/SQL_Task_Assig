@@ -1,0 +1,58 @@
+DEBUG,2022-07-27 00:32:00,233,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:32:00,234,mysql.connector.connection,# _do_auth(): self._auth_plugin: 
+DEBUG,2022-07-27 00:32:00,234,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:32:00,234,mysql.connector.connection,# _do_auth(): password: query
+DEBUG,2022-07-27 00:32:00,234,mysql.connector.connection,new_auth_plugin: caching_sha2_password
+INFO,2022-07-27 00:32:00,235,root,Database connection successful
+INFO,2022-07-27 00:32:00,254,root,Attribute table schema created
+INFO,2022-07-27 00:32:00,273,root,Dress_sale table schema created
+INFO,2022-07-27 00:32:00,395,root,Mongo_DB connection successful
+INFO,2022-07-27 00:32:00,447,root,attribute table -------------> attribute dataframe
+INFO,2022-07-27 00:32:00,470,root,dress_sale table --------------> dress_sale dataframe
+INFO,2022-07-27 00:32:00,472,root,attribute dataframe ----------> attribute json
+INFO,2022-07-27 00:32:00,475,root,dress_sale dataframe ----------> dress_sale json
+DEBUG,2022-07-27 00:33:49,330,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:33:49,330,mysql.connector.connection,# _do_auth(): self._auth_plugin: 
+DEBUG,2022-07-27 00:33:49,330,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:33:49,330,mysql.connector.connection,# _do_auth(): password: query
+DEBUG,2022-07-27 00:33:49,330,mysql.connector.connection,new_auth_plugin: caching_sha2_password
+INFO,2022-07-27 00:33:49,332,root,Database connection successful
+INFO,2022-07-27 00:33:49,362,root,Attribute table schema created
+INFO,2022-07-27 00:33:49,378,root,Dress_sale table schema created
+INFO,2022-07-27 00:33:49,539,root,Mongo_DB connection successful
+INFO,2022-07-27 00:33:49,586,root,attribute table -------------> attribute dataframe
+INFO,2022-07-27 00:33:49,607,root,dress_sale table --------------> dress_sale dataframe
+INFO,2022-07-27 00:33:49,609,root,attribute dataframe ----------> attribute json
+INFO,2022-07-27 00:33:49,612,root,dress_sale dataframe ----------> dress_sale json
+DEBUG,2022-07-27 00:48:01,559,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:48:01,559,mysql.connector.connection,# _do_auth(): self._auth_plugin: 
+DEBUG,2022-07-27 00:48:01,559,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:48:01,559,mysql.connector.connection,# _do_auth(): password: query
+DEBUG,2022-07-27 00:48:01,559,mysql.connector.connection,new_auth_plugin: caching_sha2_password
+INFO,2022-07-27 00:48:01,560,root,Database connection successful
+INFO,2022-07-27 00:48:01,583,root,Attribute table schema created
+INFO,2022-07-27 00:48:01,600,root,Dress_sale table schema created
+INFO,2022-07-27 00:48:01,710,root,Mongo_DB connection successful
+INFO,2022-07-27 00:48:01,735,root,attribute table -------------> attribute dataframe
+INFO,2022-07-27 00:48:01,759,root,dress_sale table --------------> dress_sale dataframe
+INFO,2022-07-27 00:48:01,761,root,attribute dataframe ----------> attribute json
+INFO,2022-07-27 00:48:01,763,root,dress_sale dataframe ----------> dress_sale json
+INFO,2022-07-27 00:48:01,769,root,string_format_json -------------------> dict_format_json conversion
+INFO,2022-07-27 00:48:02,779,root,attribute data pushed successfully in mongodb
+INFO,2022-07-27 00:48:03,085,root,dress_sale data pushed successfully in mongodb
+DEBUG,2022-07-27 00:48:22,808,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:48:22,808,mysql.connector.connection,# _do_auth(): self._auth_plugin: 
+DEBUG,2022-07-27 00:48:22,808,mysql.connector.connection,# _do_auth(): user: root
+DEBUG,2022-07-27 00:48:22,808,mysql.connector.connection,# _do_auth(): password: query
+DEBUG,2022-07-27 00:48:22,808,mysql.connector.connection,new_auth_plugin: caching_sha2_password
+INFO,2022-07-27 00:48:22,809,root,Database connection successful
+INFO,2022-07-27 00:48:22,832,root,Attribute table schema created
+INFO,2022-07-27 00:48:22,849,root,Dress_sale table schema created
+INFO,2022-07-27 00:48:23,028,root,Mongo_DB connection successful
+INFO,2022-07-27 00:48:23,070,root,attribute table -------------> attribute dataframe
+INFO,2022-07-27 00:48:23,092,root,dress_sale table --------------> dress_sale dataframe
+INFO,2022-07-27 00:48:23,094,root,attribute dataframe ----------> attribute json
+INFO,2022-07-27 00:48:23,097,root,dress_sale dataframe ----------> dress_sale json
+INFO,2022-07-27 00:48:23,106,root,string_format_json -------------------> dict_format_json conversion
+INFO,2022-07-27 00:48:24,047,root,attribute data pushed successfully in mongodb
+INFO,2022-07-27 00:48:24,322,root,dress_sale data pushed successfully in mongodb
