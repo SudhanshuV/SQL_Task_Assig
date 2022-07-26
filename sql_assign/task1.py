@@ -26,7 +26,7 @@ except Exception as e:
 
 try:
     client = pymongo.MongoClient(
-        "mongodb+srv://Sudhanshu_cluster:15991799#Mdb@cluster0.qcrsb.mongodb.net/?retryWrites=true&w=majority")
+        "mongodb+srv://Sudhanshu_cluster:**urpasswd**@cluster0.qcrsb.mongodb.net/?retryWrites=true&w=majority")
     logging.info('Mongo_DB connection successful')
     at_table = pd.read_sql('select * from attribute', mydb)
     logging.info('attribute table -------------> attribute dataframe')
