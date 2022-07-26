@@ -1,0 +1,26 @@
+use sql_task;
+
+# Creation of table is done inside pycharm.
+
+LOAD DATA LOCAL INFILE 'C:/Users/Himanshu Verma/attribute.csv' 
+INTO TABLE attribute 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE 'C:/Users/Himanshu Verma/dress_sale.csv' 
+INTO TABLE dress_sale 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+
+describe attribute;
+select * from attribute;
+
+describe dress_sale;
+select * from dress_sale;
+
+
